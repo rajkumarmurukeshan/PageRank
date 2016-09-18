@@ -1,0 +1,9 @@
+Perplexity Value at Iteration 1 is : 775.4921268637605;  Change in perplexity value is : 224.5078731361914
+Perplexity Value at Iteration 2 is : 762.4024878178221;  Change in perplexity value is : 13.089639045938384
+Perplexity Value at Iteration 3 is : 772.1255516611496;  Change in perplexity value is : 9.723063843327509
+Perplexity Value at Iteration 4 is : 772.3640084201134;  Change in perplexity value is : 0.23845675896370722
+Perplexity Value at Iteration 5 is : 773.5771837741453;  Change in perplexity value is : 1.2131753540319323
+Perplexity Value at Iteration 6 is : 774.0378843414046;  Change in perplexity value is : 0.4607005672593232
+Perplexity Value at Iteration 7 is : 774.4162311417231;  Change in perplexity value is : 0.378346800318468
+Perplexity Value at Iteration 8 is : 774.7025909067569;  Change in perplexity value is : 0.2863597650338079
+Perplexity Value at Iteration 9 is : 774.9265775448099;  Change in perplexity value is : 0.22398663805302022

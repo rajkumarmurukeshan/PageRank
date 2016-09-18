@@ -1,0 +1,7 @@
+For WG1 :
+Concordant is : 26 ; Discordant is :  10
+Kendall Tau Rank Coefficient is : 0.4444444444444444
+
+For WG2 :
+Concordant is : 165 ; Discordant is :  45
+Kendall Tau Rank Coefficient is : 0.5714285714285714

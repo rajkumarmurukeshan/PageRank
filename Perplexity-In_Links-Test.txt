@@ -1,0 +1,4 @@
+Perplexity Value at Iteration 1 is : 5.771114844959283;  Change in perplexity value is : 0.22888515504071716
+Perplexity Value at Iteration 2 is : 5.7336863490707195;  Change in perplexity value is : 0.03742849588856334
+Perplexity Value at Iteration 3 is : 5.842186225607963;  Change in perplexity value is : 0.1084998765372438
+Perplexity Value at Iteration 4 is : 5.819459876704576;  Change in perplexity value is : 0.02272634890338754
